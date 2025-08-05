@@ -57,7 +57,6 @@ Patron
 - **Waiter Management**: Multiple waiters can serve various tables and orders
 - **Sales Tracking**: Comprehensive sales tracking and reporting in South African Rands (R)
 - **Commission Calculation**: Automatic 15% commission calculation for waiters
-- **Local Context**: Uses South African names, currency, and realistic pricing
 
 ### Advanced Features
 - **Object-Oriented Design**: Clean class hierarchy with proper encapsulation
@@ -76,7 +75,6 @@ Patron
   - Full timestamp: `DD/MM/YYYY HH:MM:SS`
   - Time only: `HH:MM:SS`
   - Date only: `DD/MM/YYYY`
-- **Time-based Filtering**: Filter orders by time range (hours)
 
 #### **Interactive Order Creation**
 - **Dynamic Order Addition**: Add new orders during runtime
@@ -92,7 +90,6 @@ Patron
   - Total orders count
   - Total sales in Rands
   - Total commission paid
-- **Time Range Filtering**: Filter orders by specific time periods
 - **Detailed Order Reports**: Complete order listing with all details
 - **Professional Formatting**: Aligned columns, proper spacing, currency formatting
 
